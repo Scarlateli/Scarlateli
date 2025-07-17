@@ -1,16 +1,44 @@
-## Hi there 👋
+# João Pedro Scarlateli
 
-<!--
-**Scarlateli/Scarlateli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Development | SQL | Python | APIs RESTful | Git | Fullstack Web Development (Codecademy) | Computer Science (CS50 - Harvard)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack atual
+
+- **SQL**: consultas e manipulação de dados em bancos relacionais.
+- **Python**: scripts e aplicações backend.
+- **Node.js**: backend JavaScript moderno.
+- **APIs RESTful**: consumo, testes e melhores práticas de integração.
+- **Git & GitHub**: versionamento, controle de alterações e workflows colaborativos.
+- **Postman**: testes e validação de APIs.
+- **VS Code / Warp Terminal**: ambiente moderno de desenvolvimento.
+
+---
+
+## 📦 Organização dos projetos
+
+Repositórios organizados com foco em:
+- Consumo e testes de APIs RESTful.
+- Scripts e automações em Python.
+- SQL para manipulação de dados.
+- Workflows e práticas modernas com Git.
+
+---
+
+## 🔧 Áreas de interesse
+
+- Backend development
+- Integração entre sistemas via APIs RESTful
+- Persistência de dados com SQL
+- Fluxos de trabalho eficientes e versionamento
+
+---
+
+## 🌐 Contato
+
+[LinkedIn](https://www.linkedin.com/in/joão-pedro-scarlateli-rebello-986976156)
+
+---
+
+> *"Organização, versionamento e evolução técnica contínua."*
