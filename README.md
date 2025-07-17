@@ -4,7 +4,7 @@ SQL | In Progress - Backend Development | In Progress - Python | In Progress - A
 
 ---
 
-## 🧰 Stack atual
+## Stack atual
 
 - **SQL**: consultas e manipulação de dados em bancos relacionais.
 - **Python**: scripts e aplicações backend.
@@ -37,7 +37,7 @@ Repositórios organizados com foco em:
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-scarlateli-rebello-986976156)
-[E-mail] (jprebello10@gmial.com)
+[E-mail](mailto:jprebello10@gmail.com)
 
 ---
 
