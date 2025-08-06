@@ -6,12 +6,22 @@ SQL | In Progress - Backend Development | In Progress - Python | In Progress - A
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Scarlateli&show_icons=true&theme=dark)
 
+
+### Tecnologias  e Ferramentas
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Warp Terminal](https://img.shields.io/badge/Terminal-Warp-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ---
 
 ## Stack atual
 
 - **SQL**: consultas e manipulação de dados em bancos relacionais.
-- **Python**: scripts e aplicações backend.
+- **C**: Em desenvolvimento.
 - **APIs RESTful**: consumo, testes e melhores práticas de integração.
 - **Git & GitHub**: versionamento, controle de alterações e workflows colaborativos.
 - **Postman**: testes e validação de APIs.
