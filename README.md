@@ -4,7 +4,7 @@ SQL | In Progress - Backend Development | In Progress - Python | In Progress - A
 
 ## LeetCode
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Scarlateli&show_icons=true&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Scarlateli?ext=heatmap&theme=dark)
 
 
 ### Tecnologias  e Ferramentas
