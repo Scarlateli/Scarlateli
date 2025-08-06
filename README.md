@@ -2,6 +2,10 @@
 
 SQL | In Progress - Backend Development | In Progress - Python | In Progress - APIs RESTful | In Progress - Git | In Progress - Fullstack Web Development (Codecademy) | In Progress - Computer Science (CS50 - Harvard)
 
+## LeetCode
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Scarlateli&show_icons=true&theme=dark)
+
 ---
 
 ## Stack atual
