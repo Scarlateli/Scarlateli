@@ -44,7 +44,7 @@ Repositórios organizados com foco em:
 - Backend development
 - Fullstack development
 - Integração entre sistemas via APIs RESTful
-- Bando de dados relacionais
+- Banco de dados relacionais
 
 ---
 
