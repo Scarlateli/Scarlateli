@@ -2,7 +2,7 @@
 
 Transitioning Software Engineer | Backend Development Focus  
 7+ years in ERP/EMR systems (Philips & Healthcare IT)  
-Strong experience in SQL & Oracle | Expanding into Computer Science & Backend Development (Harvard CS50, MITx, Codecademy)  
+Strong experience in SQL| Expanding into Computer Science & Backend Development (Harvard CS50, MITx, Codecademy)  
 
 ## LeetCode
 
