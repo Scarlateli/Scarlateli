@@ -1,6 +1,6 @@
 # João Pedro Scarlateli
 
-Transitioning Software Engineer | Backend Development Focus  
+Backend Development Focus  
 7+ years in IT Consultancy & Healthcare ERP/EMR systems  
 Expanding knowledge in Cloud, AI, and Backend Development   
 
